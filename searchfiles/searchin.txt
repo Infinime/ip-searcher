@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="134.234.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="192.124.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<log>
+  <start time="2020-09-01 08:19:47.642843 +0300" appName="LkshServer" appVersion="8.17" thisFile="(usually path here)" rolloverReason="Size" rolloverFromFile="(usually path here)"/>
+
+  <event seq="1312919" time="2020-09-01 08:19:47.641577 +0300" app="AppName 8.37" name="I_CHANNEL_SESSION_OPENED" desc="Session channel opened.">
+    <session id="489807" service="SSH" remoteAddress="114.434.535.110:34512" loc="location" virtualAccount="THIS IS THE VALUE I NEED" windowsAccount="ACCOUNT/NAME" userPrincipalName="ACC.local"/>
+    <channel type="session" id="1"/>
+  </event>
